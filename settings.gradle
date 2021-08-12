@@ -1,0 +1,2 @@
+rootProject.name = "My Photo Library"
+include ':app'
